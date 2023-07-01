@@ -1,0 +1,9 @@
+{
+	"name": "adfv2batch01",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33fef248-6216-40d8-9f10-f4cb846df40f",
+		"tenantId": "78ee4f28-a96d-4953-9865-4786333078a0"
+	}
+}
